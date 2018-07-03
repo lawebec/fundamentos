@@ -1,0 +1,19 @@
+body{margin: 0 auto}
+.top_menu, .footer { background-color: #ccc}
+#logo {margin: 20px auto; display: block}
+.wrap { max-width: 800px; width:100%; margin: 0 auto} 
+
+h1 {text-align: center}
+.top_menu {margin: 40px 0}
+.footer {margin-top: 40px}
+.header h2 {text-transform: uppercase}
+.header h3 {margin-left:40px}
+
+ul.menu{display: block; margin: 0; padding: 0; }
+ul.menu li { display: inline-block; list-style: none; padding: 20px 20px 20px 0}
+
+table.educacion { border: 1px solid #999; border-collapse: collapse; width: 100% }
+table.educacion th, table.educacion td {padding: 10px; text-align: left; border: 1px solid #999}
+
+form div { margin-bottom: 5px}
+form label {min-width: 100px; display: inline-block;}
